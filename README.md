@@ -5,3 +5,5 @@ Esse repositório foi criado para registrar as práticas de Javascript efetuadas
 ### Desafio 1 - Tabuada
 ![image](https://user-images.githubusercontent.com/77105980/196448364-8835fcd5-eb36-4b30-b015-a4665f3d91c9.png)
 
+### Desafio 2 - Lâmpada
+![image](https://user-images.githubusercontent.com/77105980/196491313-d0f2bc03-d448-43e8-a80f-cc956507e7a1.png)
