@@ -10,3 +10,14 @@ Esse repositório foi criado para registrar as práticas de Javascript efetuadas
 
 ###Countdown 
 ![image](https://user-images.githubusercontent.com/77105980/196819455-f7622a28-4dda-461b-a4d7-32e1ee5ca00e.png)
+
+### Gerenciador de Produtos
+Neste projeto foi utilizado classes para:
+* Ler os dados digitados no input
+* Validar se os campos dos inputs foram preenchidos
+* Adicionar produtos
+* Listar produtos
+* Limpar campos caso o usuário opte por cancelar ou após adicionar o produto na lista 
+* deletar produto por id
+
+![image](https://user-images.githubusercontent.com/77105980/197648491-5e50167b-c7ce-4b9d-8d60-24f89f132041.png)
