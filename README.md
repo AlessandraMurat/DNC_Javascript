@@ -8,7 +8,7 @@ Esse repositório foi criado para registrar as práticas de Javascript efetuadas
 ### Desafio 2 - Lâmpada
 ![image](https://user-images.githubusercontent.com/77105980/196491313-d0f2bc03-d448-43e8-a80f-cc956507e7a1.png)
 
-###Countdown 
+### Countdown 
 ![image](https://user-images.githubusercontent.com/77105980/196819455-f7622a28-4dda-461b-a4d7-32e1ee5ca00e.png)
 
 ### Gerenciador de Produtos
