@@ -21,3 +21,7 @@ Neste projeto foi utilizado classes para:
 * deletar produto por id
 
 ![image](https://user-images.githubusercontent.com/77105980/197648491-5e50167b-c7ce-4b9d-8d60-24f89f132041.png)
+
+### Pesquisa de Países
+![image](https://user-images.githubusercontent.com/77105980/198755207-b08aed43-8667-495d-a34f-e3c43519b1af.png)
+
